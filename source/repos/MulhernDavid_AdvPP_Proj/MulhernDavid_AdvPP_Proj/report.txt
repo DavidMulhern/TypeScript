@@ -1,0 +1,34 @@
+
+--------------------------------------------------
+Customer pps: 122
+First Name: Dave
+Surename: Mulhern
+Born in: 88
+Email: dave@gmail.com
+Customer came from: Other Area, Ireland
+Ticket type: Luxury ticket
+Customer attends cinema Less than three times per year
+Customer spends Less than 10 euro on average
+--------------------------------------------------
+--------------------------------------------------
+Customer pps: 999
+First Name: Martin
+Surename: gmit
+Born in: 90
+Email: martin@gmit
+Customer came from: Connacht
+Ticket type: Luxury ticket
+Customer attends cinema Less than three times per year
+Customer spends Less than 5 euro on average
+--------------------------------------------------
+--------------------------------------------------
+Customer pps: 444
+First Name: Barry
+Surename: White
+Born in: 91
+Email: barry@music
+Customer came from: Connacht
+Ticket type: Luxury ticket
+Customer attends cinema Less than three times per year
+Customer spends Nothing on average
+--------------------------------------------------
